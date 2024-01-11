@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mansoor Hayat</h1>
 <h3 align="center">Expert in Medical Image & Video Processing: Advancing Super-Resolution, Segmentation, Classification & Regression with Mathematical Precision</h3>
+🌟 Welcome to My GitHub!
+
+👨‍💻 About Me: I'm a passionate Software Engineer with a versatile and dynamic background in Computer Science, Engineering, and Business Administration. With a rich blend of technical prowess and business acumen, I specialize in crafting innovative solutions that bridge the gap between technology and practical applications.
+
+💡 Expertise:
+
+🤖 Machine Learning & Deep Learning: Leveraging the power of AI to solve complex problems and drive progress.
+👁️ Computer Vision: Transforming the way we interact with the digital world through advanced image and video analysis.
+🌐 Web Development: Building sleek, user-friendly, and efficient web applications tailored to meet diverse needs.
+📱 Android App Development: Creating engaging and intuitive mobile experiences that connect and inspire.
+🚀 My Mission: As a tech enthusiast and a problem-solver at heart, my goal is to develop cutting-edge solutions that make a real-world impact. Whether it's engineering challenges or business-centric projects, I'm always ready to explore new horizons and push the boundaries of what's possible.
+
+🤝 Let's Connect: Whether you're looking for a collaborator on an exciting project or just want to chat about the latest in tech, feel free to reach out. Let's innovate and grow together!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
