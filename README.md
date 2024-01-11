@@ -1,5 +1,4 @@
-![Header](./your-header-image-name.png)
-<h1 align="center">Hi , I'm Mansoor Hayat</h1>
+![Header](./github-header-image (1).png)
 <h3 align="center">Expert in Medical Image & Video Processing: Advancing Super-Resolution, Segmentation, Classification & Regression with Mathematical Precision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansoorhayat777&label=Profile%20views&color=0e75b6&style=flat" alt="mansoorhayat777" /> </p>
